@@ -1,0 +1,7 @@
+{
+  "name": "deadcode-detector",
+  "version": "0.0.1",
+  "author": "Nitin Mukesh Tiwari",
+  "description": "Identifies locations of deadcode.",
+  "main": "main.html"
+}
