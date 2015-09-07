@@ -1,7 +1,16 @@
 {
   "name": "deadcode-detector",
-  "version": "0.0.1",
-  "author": "Nitin Mukesh Tiwari",
+  "productName": "Deadcode Detector.",
+  "version": "0.1.0",
+  "author": "Nitin Mukesh Tiwari <nmtiwari@iastate.edu>",
   "description": "Identifies locations of deadcode.",
-  "main": "main.html"
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/deadcode-detector"
+  },
+  "icon": {
+	"type": "fa",
+	"name": "pie-chart"
+  }
 }
